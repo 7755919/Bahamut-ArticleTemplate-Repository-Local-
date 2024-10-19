@@ -1,0 +1,26 @@
+{
+    "confirmDelete": {
+        "zh-TW": "確定要刪除選中的範本嗎？",
+        "zh-CN": "确定要删除选中的模板吗？",
+        "en": "Are you sure you want to delete the selected template?",
+        "ja": "選択したテンプレートを削除してもよろしいですか？"
+    },
+    "alertTemplateDeleted": {
+        "zh-TW": "範本已刪除！",
+        "zh-CN": "模板已删除！",
+        "en": "Template deleted!",
+        "ja": "テンプレートが削除されました！"
+    },
+    "alertNoTemplateName": {
+        "zh-TW": "請輸入範本名稱！",
+        "zh-CN": "请输入模板名称！",
+        "en": "Please enter a template name!",
+        "ja": "テンプレート名を入力してください！"
+    },
+    "alertTemplateSaved": {
+        "zh-TW": "範本已保存！",
+        "zh-CN": "模板已保存！",
+        "en": "Template saved!",
+        "ja": "テンプレートが保存されました！"
+    }
+}
